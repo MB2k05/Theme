@@ -32,3 +32,11 @@ The background image is not owned by me. It goes to its respective owner.
 }
 
 /* Removal of backgrounds */
+
+/* Guild and Top Bar Transparency */
+.theme-dark .wrapper_fea3ef {
+    background:transparent;
+    background-image: var(--transparency-1);
+}
+
+/* Transparency for channels, member list, private channels, left side of settings */
