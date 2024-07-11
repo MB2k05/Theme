@@ -8,3 +8,22 @@
 
 @import url('https://raw.githack.com/MB2k05/Theme/main/Transparency.css');
 @import url('https://raw.githack.com/MB2k05/Theme/main/WatchDogs2core.css');
+
+:root{
+    --background: url('https://images2.alphacoders.com/709/709942.jpg')
+    --activetext-colour: white;
+
+    --primary1-colour: #56738C;
+    --primary2-colour: rgba(242, 195, 53, 0.5);
+    --primary3-colour: rgba(50, 115, 140, 0.6);
+
+    --secondary1-colour: rgba(50, 50, 50, 0.3);
+    --secondary2-colour: rgba(100, 100, 100, 0.5);
+    --secondary3-colour: rgba(0, 0, 0, 0.5);
+
+    --transparency-1: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-2: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-3: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-4: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+    --transparency-5: linear-gradient(to right, rgba(0,0,0,0.5), rgba(0,0,0,0.5));
+}
